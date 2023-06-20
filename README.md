@@ -2,7 +2,7 @@
 <h3 align="center">A Machine Learning enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balachandar04&label=Profile%20views&color=0e75b6&style=flat" alt="balachandar04" /> </p>
-
+<img allign="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiNfNZkEuQEeEOABSdHZQPlAZQ-qZEm2riRYNMmbOoiA&s"/>
 - 🌱 I’m currently learning **Deep Learning Techniques**
 
 - 📫 How to reach me **mailmeatbala04@gmail.com**
