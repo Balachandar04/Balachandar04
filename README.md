@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Deep Learning Techniques**
 
-- 📫 How to reach me **mailmeatbala04@gmail.com**
+- 📫 How to reach me **balachandar4010@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
